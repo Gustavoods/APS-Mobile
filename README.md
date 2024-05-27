@@ -1,7 +1,7 @@
 # APS de Desenvolvimento de Aplicações Móveis
 ### Aluno: Gustavo Oliveira de Souza
 ### Matrícula: 2021100084  
-### Disciplina: Desenvolvimento de Aplicações Móveis
+### Disciplina: 121 - Desenvolvimento de Aplicações Móveis
 ### Professor: Sérgio Assunção Monteiro
 - ### Trabalho em React: Gerenciador de Serviços
 Este trabalho consiste na criação de um aplicativo web em React para gerenciar uma lista de serviços. O
